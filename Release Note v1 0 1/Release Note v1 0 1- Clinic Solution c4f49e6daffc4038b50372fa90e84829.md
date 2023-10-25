@@ -1,3 +1,5 @@
+![Logo](https://github.com/ChanakaDushmantha/clinic-solution/blob/main/image/cover.jpg)
+
 # Release Note v1.0.1- Clinic Solution
 
 [Release Date: 2023/10/21]
